@@ -169,7 +169,7 @@ deps = {
       'packages': [
           {
               'package': 'chromium/third_party/android_system_sdk',
-              'version': 'no8ss5nRg6uYDM08HboypuIQuix7bS1kVqRGyWmwP-YC',
+              'version': '8742c4d657de4618557a182069b5482e3af71f58',
           },
       ],
       'condition': 'checkout_android',
@@ -200,7 +200,7 @@ deps = {
       'packages': [
           {
               'package': 'chromium/third_party/android_tools_bundletool',
-              'version': 'FIj7ed-law2zMv41QhjEXabkaJ7aN2ztmE0Tv3Z_gFUC',
+              'version': 'bSpsD5lu4IO9FkDBSyjPNU2yibLq89K25354Hx8Ak-QC',
           },
       ],
       'condition': 'checkout_android',
